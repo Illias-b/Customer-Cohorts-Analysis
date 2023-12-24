@@ -11,6 +11,8 @@ The insights uncovered in this project were novel to the B2B team, marking a sig
 
 ## PROJECT DURATION
 The entire project was completed within a single agile sprint, lasting no more than 3 weeks. Key activities in this sprint included:
+- **Stakeholder Requirements Gathering**: Engaging with stakeholders to understand their needs and defining the project scope. This phase was crucial for aligning the dashboard with business objectives and ensuring it met the users' expectations.
+- **KPI Identification and Validation**: Working closely with stakeholders to identify and validate the key performance indicators (KPIs) that were critical to measure and track in the dashboard.
 - **Exploratory Data Analysis (EDA)**: Conducting a thorough examination of the data to understand underlying patterns and relationships.
 - **Cohort Logic Development**: Building the logic to categorize customers into different cohorts based on their contract lifecycle.
 - **Visualization Construction**: Designing and creating an intuitive and informative Tableau dashboard to display the insights.
