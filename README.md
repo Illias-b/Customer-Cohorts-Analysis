@@ -1,7 +1,8 @@
-## DASHBOARD
+## CVM BASE COHORTS 
 
 ![Dashboard Visual](link-to-dashboard-snapshot.jpg)
 *Figure 1: Snapshot of the Tableau Dashboard*
+
 
 ## GOAL
 The primary objective of this dashboard is to track customer movements across different cohorts, which are categorized based on where a customer sits within their contract cycle. This approach aims to provide a detailed and accessible view of the performance of various customer cohorts in the B2B sector. It enables data-driven decision-making by offering insights into customer behavior, sales trends, and marketing effectiveness.
