@@ -3,33 +3,16 @@
 ![Dashboard Visual](link-to-dashboard-snapshot.jpg)
 *Figure 1: Snapshot of the Tableau Dashboard*
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding: 5px;">
-    <h2>GOAL</h2>
-    <p>The primary objective of this dashboard is to provide a detailed and accessible view of the performance of various customer cohorts in the B2B sector. It aims to enable data-driven decision-making by providing insights into customer behavior, sales trends, and marketing effectiveness.</p>
-  </div>
+## GOAL
+The primary objective of this dashboard is to track customer movements across different cohorts, which are categorized based on where a customer sits within their contract cycle. This approach aims to provide a detailed and accessible view of the performance of various customer cohorts in the B2B sector. It enables data-driven decision-making by offering insights into customer behavior, sales trends, and marketing effectiveness.
 
-  <div style="flex: 1; padding: 5px;">
-    <h2>RESULT</h2>
-    <p>The implementation of this dashboard leads to several key benefits, including:</p>
-    <ul>
-      <li><strong>Enhanced Customer Understanding</strong>: Gaining deeper insights into different customer segments.</li>
-      <li><strong>Strategic Decision Making</strong>: Facilitating informed business decisions based on real-time data analysis.</li>
-      <li><strong>Operational Efficiency</strong>: Streamlining the process of data analysis and reporting.</li>
-    </ul>
-  </div>
+## RESULT
+The implementation of this dashboard leads to several key benefits, including:
+- **Enhanced Customer Understanding**: Gaining deeper insights into different customer segments.
+- **Strategic Decision Making**: Facilitating informed business decisions based on real-time data analysis.
+- **Operational Efficiency**: Streamlining the process of data analysis and reporting.
 
-  <div style="flex: 1; padding: 5px;">
-    <h2>PROJECT DURATION</h2>
-    <p>The development process for the "CVM Base Cohorts" dashboard typically takes between 2 weeks and 2 months. This period covers:</p>
-    <ol>
-      <li><strong>Data Preparation and Query Development</strong>: Involving the creation of sophisticated SQL queries for data extraction and processing.</li>
-      <li><strong>Dashboard Design and Implementation</strong>: Entailing the construction of an interactive and informative Tableau dashboard that effectively communicates the data insights.</li>
-    </ol>
-  </div>
-</div>
-
-```sql
--- [SQL Code Snapshot Here]
--- SQL Code Example: 
--- (Include a segment of your SQL query here, focusing on a part that illustrates the complexity and depth of your data manipulation skills. A good section to display might be the CTEs or the final data aggregation part of your query.)
+## PROJECT DURATION
+The development of the "CVM Base Cohorts" dashboard is typically completed within one agile sprint, amounting to no more than 3 weeks. This efficient timeframe encompasses:
+- **Data Preparation and Query Development**: Crafting sophisticated SQL queries for data extraction and processing.
+- **Dashboard Design and Implementation**: Constructing an interactive and informative Tableau dashboard that effectively communicates the derived data insights.
