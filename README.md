@@ -12,8 +12,6 @@ This project offered novel insights to the B2B team, enhancing understanding of 
 
 ### APPROACH AND TOOLS
 - **SQL Cohort Logic**: Developed complex SQL logic in Snowflake to accurately categorize customers into cohorts. 
-   - ![SQL Logic Screenshot](link-to-sql-logic-screenshot.jpg)
-   - *Figure 2: Snapshot of SQL Cohort Logic*
 - **Contract Lifecycle Analysis**: Integrated time-specific data snapshots in SQL to determine contract lifecycle stages for correct cohort placement.
 - **Tableau Visualization**: Created an interactive Tableau dashboard to visually represent customer distribution across cohorts, aiding in stakeholder understanding of customer behaviors and trends.
 
