@@ -1,6 +1,7 @@
 ## CVM BASE COHORTS 
 
-![Dashboard Visual](link-to-dashboard-snapshot.jpg)
+![image](https://github.com/Illias-b/Customer-Cohorts-Analysis/assets/33836566/5fe87418-242a-4e7f-b17f-1454db60ec63)
+
 *Figure 1: Snapshot of the Tableau Dashboard*
 
 ### GOAL
